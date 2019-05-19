@@ -1,0 +1,35 @@
+{
+  "$jason": {
+    "head": {
+      "title": "HTML canvas template",
+      "templates": {
+        "body": {
+          "type": "html",
+          "text":
+           "<html>
+            <head>
+              
+              <body>
+                <div id='domNode'>
+                  <div class='large square el'>
+                  </div>
+                </div>
+              </body>
+           </html>",
+          "style": {
+            "background": "#000000",
+            "color": "rgba(255,0,255,0.7)",
+            "border": "none"
+          },
+          "header": {
+            "style": {
+              "background": "#000000",
+              "color": "rgba(255,0,255,0.7)"
+            },
+            "title": "HTML Canvas Web app"
+          }
+        }
+      }
+    }
+  }
+}
